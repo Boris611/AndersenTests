@@ -1,4 +1,4 @@
-package GolunovTest;
+package GolunovTest2;
 
 import java.util.Scanner;
 

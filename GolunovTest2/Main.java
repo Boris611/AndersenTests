@@ -1,4 +1,4 @@
-package GolunovTest;
+package GolunovTest2;
 
 public class Main {
 
